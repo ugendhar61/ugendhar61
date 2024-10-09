@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @ugendhar61
-- 👀 I’m interested in ...cyber security
-- 🌱 I’m currently learning ...python
-- 💞️ I’m looking to collaborate on ...coding
-- 📫 How to reach me ...
+- 👀 I’m interested in ...Data Science.
+- 🌱 I’m currently learning Data Analysis using Tableau and Predictive Analysis Using R.
+- 🤝 I’m looking forward to collaborate on Data Science Projects.
 
 <!---
 ugendhar61/ugendhar61 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
