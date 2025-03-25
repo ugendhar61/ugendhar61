@@ -5,7 +5,7 @@
 - 🤝 Looking forward to collaborate on Data Science Projects.
 
 I’m a passionate Data Science student with a solid foundation in programming and Data Analysis. My journey has equipped me with skills in various languages and technologies, including:
-- Programming Languages: C, Java, C++, R
+- Programming Languages: C, CPP, Java, C++, R, Python, SQL.
 - Web Development: HTML, CSS
 
 📫 Connect with Me
